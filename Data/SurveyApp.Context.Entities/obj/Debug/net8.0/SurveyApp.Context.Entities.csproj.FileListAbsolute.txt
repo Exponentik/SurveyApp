@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\bin\Debug\net8.0\SurveyApp.Context.Entities.deps.json
+C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\bin\Debug\net8.0\SurveyApp.Context.Entities.dll
+C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\bin\Debug\net8.0\SurveyApp.Context.Entities.pdb
+C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\obj\Debug\net8.0\SurveyApp.Context.Entities.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\obj\Debug\net8.0\SurveyApp.Context.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\obj\Debug\net8.0\SurveyApp.Context.Entities.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\obj\Debug\net8.0\SurveyApp.Context.Entities.AssemblyInfo.cs
+C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\obj\Debug\net8.0\SurveyApp.Context.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\obj\Debug\net8.0\SurveyApp.Context.Entities.dll
+C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\obj\Debug\net8.0\refint\SurveyApp.Context.Entities.dll
+C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\obj\Debug\net8.0\SurveyApp.Context.Entities.pdb
+C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\obj\Debug\net8.0\ref\SurveyApp.Context.Entities.dll

@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\bin\Debug\net8.0\SurveyApp.Services.Interviews.deps.json
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\bin\Debug\net8.0\SurveyApp.Services.Interviews.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\bin\Debug\net8.0\SurveyApp.Services.Interviews.pdb
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\obj\Debug\net8.0\SurveyApp.Services.Interviews.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\obj\Debug\net8.0\SurveyApp.Services.Interviews.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\obj\Debug\net8.0\SurveyApp.Services.Interviews.AssemblyInfo.cs
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\obj\Debug\net8.0\SurveyApp.Services.Interviews.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\obj\Debug\net8.0\SurveyApp.Services.Interviews.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\obj\Debug\net8.0\refint\SurveyApp.Services.Interviews.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\obj\Debug\net8.0\SurveyApp.Services.Interviews.pdb
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\obj\Debug\net8.0\ref\SurveyApp.Services.Interviews.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\obj\Debug\net8.0\SurveyApp.Services.Interviews.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\bin\Debug\net8.0\SurveyApp.Context.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\bin\Debug\net8.0\SurveyApp.Context.Entities.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\bin\Debug\net8.0\SurveyApp.Context.pdb
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\bin\Debug\net8.0\SurveyApp.Context.Entities.pdb
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\obj\Debug\net8.0\SurveyAp.5298EB10.Up2Date

@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\bin\Debug\net8.0\SurveyApp.Services.Results.deps.json
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\bin\Debug\net8.0\SurveyApp.Services.Results.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\bin\Debug\net8.0\SurveyApp.Services.Results.pdb
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\obj\Debug\net8.0\SurveyApp.Services.Results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\obj\Debug\net8.0\SurveyApp.Services.Results.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\obj\Debug\net8.0\SurveyApp.Services.Results.AssemblyInfo.cs
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\obj\Debug\net8.0\SurveyApp.Services.Results.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\obj\Debug\net8.0\SurveyApp.Services.Results.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\obj\Debug\net8.0\refint\SurveyApp.Services.Results.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\obj\Debug\net8.0\SurveyApp.Services.Results.pdb
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\obj\Debug\net8.0\ref\SurveyApp.Services.Results.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\bin\Debug\net8.0\SurveyApp.Context.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\bin\Debug\net8.0\SurveyApp.Context.Entities.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\bin\Debug\net8.0\SurveyApp.Context.Entities.pdb
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\bin\Debug\net8.0\SurveyApp.Context.pdb
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\obj\Debug\net8.0\SurveyApp.Services.Results.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Results\obj\Debug\net8.0\SurveyAp.542761EB.Up2Date

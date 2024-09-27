@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\bin\Debug\net8.0\SurveyApp.Services.Answers.deps.json
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\bin\Debug\net8.0\SurveyApp.Services.Answers.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\bin\Debug\net8.0\SurveyApp.Services.Answers.pdb
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\bin\Debug\net8.0\SurveyApp.Context.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\bin\Debug\net8.0\SurveyApp.Context.Entities.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\bin\Debug\net8.0\SurveyApp.Context.pdb
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\bin\Debug\net8.0\SurveyApp.Context.Entities.pdb
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\obj\Debug\net8.0\SurveyApp.Services.Answers.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\obj\Debug\net8.0\SurveyApp.Services.Answers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\obj\Debug\net8.0\SurveyApp.Services.Answers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\obj\Debug\net8.0\SurveyApp.Services.Answers.AssemblyInfo.cs
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\obj\Debug\net8.0\SurveyApp.Services.Answers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\obj\Debug\net8.0\SurveyAp.FBCC972C.Up2Date
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\obj\Debug\net8.0\SurveyApp.Services.Answers.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\obj\Debug\net8.0\refint\SurveyApp.Services.Answers.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\obj\Debug\net8.0\SurveyApp.Services.Answers.pdb
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\obj\Debug\net8.0\ref\SurveyApp.Services.Answers.dll
