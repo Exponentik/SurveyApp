@@ -17,3 +17,4 @@ C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Questions\obj\Debug\
 C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Questions\obj\Debug\net8.0\refint\SurveyApp.Services.Questions.dll
 C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Questions\obj\Debug\net8.0\SurveyApp.Services.Questions.pdb
 C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Questions\obj\Debug\net8.0\ref\SurveyApp.Services.Questions.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Questions\obj\Debug\net8.0\SurveyApp.Services.Questions.sourcelink.json

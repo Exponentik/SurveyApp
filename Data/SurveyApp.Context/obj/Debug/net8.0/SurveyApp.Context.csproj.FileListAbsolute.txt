@@ -15,3 +15,4 @@ C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context\obj\Debug\net8.0\SurveyAp
 C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context\obj\Debug\net8.0\ref\SurveyApp.Context.dll
 C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context\bin\Debug\net8.0\SurveyApp.Context.runtimeconfig.json
 C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context\obj\Debug\net8.0\SurveyApp.Context.genruntimeconfig.cache
+C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context\obj\Debug\net8.0\SurveyApp.Context.sourcelink.json

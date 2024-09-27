@@ -10,3 +10,4 @@ C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\obj\Debug\net8.0
 C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\obj\Debug\net8.0\refint\SurveyApp.Context.Entities.dll
 C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\obj\Debug\net8.0\SurveyApp.Context.Entities.pdb
 C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\obj\Debug\net8.0\ref\SurveyApp.Context.Entities.dll
+C:\Users\user\Desktop\TestTask2\Data\SurveyApp.Context.Entities\obj\Debug\net8.0\SurveyApp.Context.Entities.sourcelink.json

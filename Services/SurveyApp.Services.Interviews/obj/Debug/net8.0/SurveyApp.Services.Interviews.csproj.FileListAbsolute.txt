@@ -15,3 +15,4 @@ C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\bin\Debug
 C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\bin\Debug\net8.0\SurveyApp.Context.pdb
 C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\bin\Debug\net8.0\SurveyApp.Context.Entities.pdb
 C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\obj\Debug\net8.0\SurveyAp.5298EB10.Up2Date
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Interviews\obj\Debug\net8.0\SurveyApp.Services.Interviews.sourcelink.json

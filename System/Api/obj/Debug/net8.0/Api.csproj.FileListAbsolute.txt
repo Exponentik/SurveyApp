@@ -117,3 +117,4 @@ C:\Users\user\Desktop\TestTask2\System\Api\bin\Debug\net8.0\SurveyApp.Services.I
 C:\Users\user\Desktop\TestTask2\System\Api\bin\Debug\net8.0\SurveyApp.Services.Questions.pdb
 C:\Users\user\Desktop\TestTask2\System\Api\bin\Debug\net8.0\SurveyApp.Services.Results.pdb
 C:\Users\user\Desktop\TestTask2\System\Api\bin\Debug\net8.0\SurveyApp.Services.Surveys.pdb
+C:\Users\user\Desktop\TestTask2\System\Api\obj\Debug\net8.0\Api.sourcelink.json

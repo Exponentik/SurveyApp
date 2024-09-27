@@ -24,7 +24,8 @@ public class AnswerService : IAnswerService
         {
             Id = a.Id,
             Text = a.Text,
-            QuestionId = questionId
+            QuestionId = questionId,
+            IsCorrect = a.IsCorrect
         }).ToList();
     }
 

@@ -29,8 +29,13 @@ namespace SurveyApp.Services.Surveys
 
             _context.Surveys.Add(result);
             await _context.SaveChangesAsync();
-
-            return surveyDto;
+            var survey = new SurveyDto
+            {
+                Id = result.Id,
+                Title = result.Title,
+                Description = result.Description
+            };
+            return survey;
         }
         public async Task<SurveyDto> GetSurveyByIdAsync(int id)
         {

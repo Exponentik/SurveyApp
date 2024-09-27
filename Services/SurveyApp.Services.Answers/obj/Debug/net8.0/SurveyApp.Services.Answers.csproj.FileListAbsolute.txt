@@ -15,3 +15,4 @@ C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\obj\Debug\ne
 C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\obj\Debug\net8.0\refint\SurveyApp.Services.Answers.dll
 C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\obj\Debug\net8.0\SurveyApp.Services.Answers.pdb
 C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\obj\Debug\net8.0\ref\SurveyApp.Services.Answers.dll
+C:\Users\user\Desktop\TestTask2\Services\SurveyApp.Services.Answers\obj\Debug\net8.0\SurveyApp.Services.Answers.sourcelink.json
